@@ -66,7 +66,7 @@ static const struct
   DEF_FMT (NV16_10, P010_10LE),
   DEF_FMT (NV61_10, P010_10LE),
   DEF_FMT (NV24_10, P010_10LE),
-  DEF_FMT (NV42_10, P010ï»_10LE),
+  DEF_FMT (NV42_10, P010_10LE),
 
 #undef DEF_FMT
 };
