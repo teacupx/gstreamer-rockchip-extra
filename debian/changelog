@@ -1,4 +1,4 @@
-gstreamer1.0-rockchip-extra (20180115-2armbian1) stable; urgency=medium
+gstreamer1.0-rockchip-extra (3:20180115-2armbian1) stable; urgency=medium
 
   * Fix tag release-20171218 and version bump
 

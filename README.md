@@ -5,6 +5,10 @@ Most of them were modified based on upstream existing plugin.
 
 This software has been tested only with kernel after 4.4.
 
+### Build-deps
+
+Make sure the gstreamer, gstreamer-plugins-base and v4l dev libraries are installed, for all features to be compiled.
+
 ## Status
 
 | Elements       | Type  |  Comments  | Origin |
