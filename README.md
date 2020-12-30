@@ -9,6 +9,8 @@ This software has been tested only with kernel after 4.4.
 
 Make sure the gstreamer, gstreamer-plugins-base and v4l dev libraries are installed, for all features to be compiled.
 
+Build on a Debian Stretch chroot with `DEB_BUILD_OPTIONS=nocheck dpkg-buildpackage -b -us -uc -j$(nproc)`
+
 ## Status
 
 | Elements       | Type  |  Comments  | Origin |
